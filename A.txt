@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 LIGNE IMPORTANTE — version MAIN
+=======
+LIGNE IMPORTANTE — version branche
+>>>>>>> feature/conflit-A
